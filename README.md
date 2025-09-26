@@ -1,4 +1,4 @@
-# Hey there! I'm Adin Cuenca-Wertheimer 👋
+#👋
 
 ## High School Student & Programmer
 
