@@ -1,5 +1,4 @@
-#👋
-
+# 👋
 ## High School Student & Programmer
 
 Some facts about me:
